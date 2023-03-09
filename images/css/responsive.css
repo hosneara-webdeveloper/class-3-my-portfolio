@@ -1,0 +1,20 @@
+@media (max-width: 991px) {
+    .menu {
+        display: none;
+    }
+
+    .menu-icon {
+        display: flex;
+        width: 75%;
+        justify-content: flex-end;
+    }
+
+
+}
+
+@media (max-width: 575px) {
+    .logo {
+        width: 30px;
+    }
+
+}
